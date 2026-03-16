@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Özge 👋
 
-<!--
-**ZgStn/ZgStn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a .NET Developer Student at IT-Högskolan, Gothenburg
 
-Here are some ideas to get you started:
+Currently learning and building projects with:
+C# • .NET • ASP.NET • SQL Server • React • JavaScript • HTML • CSS • Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Before transitioning into tech, I worked for many years in the Swedish public sector (Skatteverket and Försäkringskassan), where I developed strong skills in structured work, quality assurance and problem solving.
+
+Today I enjoy building backend applications and learning how different systems communicate with each other.
+
+## Current Projects
+Some of the projects you will find here:
+
+- **DungeonCrawler** – C# console game with object-oriented design  
+- **BookstoreManager** – .NET application with database integration  
+- **KnockOut Game** – JavaScript dice game  
+- **Algorithms** – practice implementations of common algorithms
+
+## Contact
+📧 ozgestenstrom@gmail.com
