@@ -15,8 +15,7 @@ Some of the projects you will find here:
 - **AuctionCenter** - Full-stack auction platform built with React, ASP.NET Core Web API, Entity Framework Core, SQL Server, and JWT authentication.
 - **DungeonCrawler** – C# console game with object-oriented design  
 - **BookstoreManager** – .NET application with database integration  
-- **KnockOut Game** – JavaScript dice game  
-- **Algorithms** – practice implementations of common algorithms
+. **HejSvenskaTestBlazor** - A small Blazor practice project created as preparation for my LIA internship.
 
 ## Contact
 📧 ozgestenstrom@gmail.com
